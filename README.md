@@ -118,3 +118,4 @@ ____
 3.https://studfile.net/preview/2959481/page:16/
 4.https://ru.wikipedia.org/wiki/Эвристический_алгоритм
 5.http://statsoft.ru/home/textbook/modules/stcluan.html#d
+6.
