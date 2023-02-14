@@ -157,12 +157,12 @@ ____
 
 # Литература
 
-1.https://ru.wikipedia.org/wiki/A*
-2.https://medium.com/nuances-of-programming/алгоритм-поиска-a-3bb59be05a79
-3.https://studfile.net/preview/2959481/page:16/
-4.https://ru.wikipedia.org/wiki/Эвристический_алгоритм
-5.http://statsoft.ru/home/textbook/modules/stcluan.html#d
-6.https://tproger.ru/articles/computational-complexity-explained/
-7.https://habr.com/ru/post/173821/
-8.https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма
-9.https://ru.wikipedia.org/wiki/A*#Оценка_сложности
+- [1].https://ru.wikipedia.org/wiki/A*
+- [2].https://medium.com/nuances-of-programming/алгоритм-поиска-a-3bb59be05a79
+- [3].https://studfile.net/preview/2959481/page:16/
+- [4].https://ru.wikipedia.org/wiki/Эвристический_алгоритм
+- [5].http://statsoft.ru/home/textbook/modules/stcluan.html#d
+- [6].https://tproger.ru/articles/computational-complexity-explained/
+- [7].https://habr.com/ru/post/173821/
+- [8].https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма
+- [9].https://ru.wikipedia.org/wiki/A*#Оценка_сложности
