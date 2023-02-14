@@ -167,3 +167,5 @@ ____
 - [7].https://habr.com/ru/post/173821/
 - [8].https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма
 - [9].https://ru.wikipedia.org/wiki/A*#Оценка_сложности
+- [10].https://habr.com/ru/post/71083/
+- [11].https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb
